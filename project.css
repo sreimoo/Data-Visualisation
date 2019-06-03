@@ -1,0 +1,55 @@
+
+*{
+	text-align:justify;
+	
+	
+}
+rect:hover {
+				fill: red;
+			}
+body{
+	background-image:url(images.jpg);
+	background-size:100%;
+	}
+#TopDiv{
+	background-color:red;
+}
+
+h1{
+	background-image:url(images/background.jpg);
+	background-size:100% 5%;
+	font: italic bold 1.5em/1.2em Georgia,serif;
+	}
+nav a:hover{
+		background-color:lightblue;
+		border:darkblue;
+	}
+	.active{
+		background-color:white;
+		border:black;
+	}
+	nav a {
+		text-decoration: none;
+		border: 4px solid blue;
+		margin:1px auto;
+	}
+	
+	.main{
+		width:100%;
+		height:100%;
+	}
+nav{
+	background-color: #D5D8DC;
+}
+
+	
+	.nav{
+		font-size:1.3em;
+	}
+	.nav{
+		display:inline-block;
+		width:24%;
+		text-align:center;
+	}
+	
+	
